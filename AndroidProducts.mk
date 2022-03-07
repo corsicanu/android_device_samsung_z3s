@@ -14,5 +14,8 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_beyondx.mk
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/twrp_y2s.mk
+
+COMMON_LUNCH_CHOICES := twrp_y2s-eng
 

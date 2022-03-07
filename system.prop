@@ -1,0 +1,6 @@
+ro.product.board=exynos990
+ro.board.platform=universal990
+sys.usb.controller=10e00000.usb
+ro.boot.usbcontroller=10e00000.usb
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=13100000.ufs
