@@ -1,5 +1,5 @@
 # Platform
-DEVICE_CODENAME := y2s
+DEVICE_CODENAME := z3s
 DEVICE_PATH := device/samsung/$(DEVICE_CODENAME)
 BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := exynos990

@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_y2s.mk
+	$(LOCAL_DIR)/twrp_z3s.mk
 
-COMMON_LUNCH_CHOICES := twrp_y2s-eng
+COMMON_LUNCH_CHOICES := twrp_z3s-eng
 
